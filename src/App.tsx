@@ -13,6 +13,7 @@ function App() {
     <>
      <div className='app'>
           <Header />
+          <hr />
               <div className='element'> <Outlet ></Outlet></div>
           <Footer />
      </div>

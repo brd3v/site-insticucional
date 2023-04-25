@@ -16,4 +16,17 @@
 .menu .link{
   margin-right: 1rem;
   text-decoration: none;
+
+}
+
+
+.menu{
+  margin-top: 1rem;
+    height: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
 }

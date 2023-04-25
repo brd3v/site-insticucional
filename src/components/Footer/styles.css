@@ -2,7 +2,8 @@
   width: 100%;
   background-color: black;
   color: aliceblue;
-  height: 6vh;
+  height: 4.2vh;
+  justify-content: center;
   text-align: center;
   align-items: center;
 }
